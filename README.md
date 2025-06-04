@@ -65,6 +65,4 @@ Created a real-time weather forecasting web application with secure login, using
 
 > I love turning complex problems into simple, beautiful, and intuitive solutions — and I'm always ready to learn something new!
 
----
 
-⭐ **Thanks for visiting my GitHub portfolio! Let's build something great together.**
